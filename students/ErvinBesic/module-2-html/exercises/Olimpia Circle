@@ -1,0 +1,32 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Ervin Besic">
+    <meta name="description" content="Vjezba olimpia-SVG art">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SVG art</title>
+</head>
+
+<body>
+
+    <h2>Drawing in vector graphics:</h2>
+   
+    
+            <svg width="1200" height="600" >
+
+ 
+  
+               
+                <circle cx="100" cy="100" r="50" fill="none" stroke="blue" stroke-width="6"/>
+                <circle cx="210" cy="100" r="50" fill="none" stroke="black" stroke-width="6"/>
+                <circle cx="320" cy="100" r="50" fill="none" stroke="orange" stroke-width="6"/>
+                <circle cx="280" cy="155" r="50" fill="none" stroke="green" stroke-width="6"/>
+                <circle cx="165" cy="155" r="50" fill="none" stroke="red" stroke-width="6"/>
+   
+
+    
+            </svg>
+    
+  
+</body>
+
+</html>
